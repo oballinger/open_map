@@ -22,6 +22,7 @@ def generate_map_url(map_service, latitude, longitude):
     else:
         return None
 
+
 # Streamlit App
 st.title("Multi-Map Coordinate Viewer")
 
